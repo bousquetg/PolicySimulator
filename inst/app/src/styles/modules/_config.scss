@@ -1,0 +1,29 @@
+// Colors
+$blue-light: #0f629a;
+//$blue-dark-website: #020f3b;
+$blue-dark: #154361;
+$sky-light: #9bc1d5;
+$sky-dark: #384a50;
+$green-light: #91c100;
+$green-dark: #597906;
+$red-light: #e25d13;
+$red-dark: #a5470e;
+$gray-light: #e0e6eb;
+$gray: rgb(126, 126, 126);
+$gray-dark: #222;
+
+$color-1: #383a61;
+$color-2: #e56000;
+$color-3: #717274;
+$color-4: #6c45b1;
+$color-5: #98c10f;
+
+$colors: ("1": $color-1, "2": $color-2, "3": $color-3, "4": $color-4, "5": $color-5);
+
+$modal-background: rgba($color: $blue-dark, $alpha: 0.6);
+
+// Layout
+$header-height: 60px;
+$sidebar-gap: 20px;
+
+$hover-effect: 0.2s;
